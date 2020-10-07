@@ -1,3 +1,7 @@
+> **Important**: This respository is abandoned.
+>
+> The library was moved to [LM-Commons/LmcRbacMvc](https://github.com/LM-Commons/LmcRbacMvc)
+
 # LmcRbacMvc
 
 [![Version](https://poser.pugx.org/laminas-commons/lmc-rbac-mvc/version)](//packagist.org/packages/laminas-commons/lmc-rbac-mvc)
